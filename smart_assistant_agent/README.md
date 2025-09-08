@@ -22,6 +22,6 @@ Each section follows along with the Panaversity playlist and focuses on core SDK
 Clone the repo and explore each folder for code examples and experiments:
 
 ```bash
-git clone https://github.com/MYounus-Codes/openai-agents-sdk.git
+git clone https://github.com/MYousuf-Codes/openai-agents-sdk.git
 cd openai-agents-sdk
 
