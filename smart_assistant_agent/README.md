@@ -7,6 +7,7 @@ Each section follows along with the Panaversity playlist and focuses on core SDK
 
 ## 🎥 Learning Resource
 ▶️ [YouTube Playlist – Panaversity Urdu](https://www.youtube.com/watch?v=eRcrE0R75s8&list=PL0vKVrkG4hWr4V2I4P6GaDzMG_LijlGTm&index=3&ab_channel=PanaversityUrdu "OpenAI Agents SDK Tutorials")
+📄 [OpenAI Agents SDK official Documentation](https://openai.github.io/openai-agents-python/ "OpenAI Agents SDK offical Documentation")
 
 ---
 
@@ -24,4 +25,3 @@ Clone the repo and explore each folder for code examples and experiments:
 git clone https://github.com/MYounus-Codes/openai-agents-sdk.git
 cd openai-agents-sdk
 
----
