@@ -1,4 +1,4 @@
-# Python-generated files
+# Files to skip
 __pycache__/
 *.py[oc]
 build/
