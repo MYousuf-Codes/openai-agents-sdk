@@ -1,16 +1,22 @@
-# Files to skip
+# Python caches
 __pycache__/
 *.py[oc]
+
+# Build artifacts
 build/
 dist/
 wheels/
 *.egg-info
-.chainlit
-*.env
-.files
 
 # Virtual environments
-.venv
+.venv/
 
-# Environment variables
-.env
+# Environment & local config files (in any folder)
+**/.env
+**/.files
+**/.chainlit
+**/__pycache__/
+
+# OS cruft
+.DS_Store
+Thumbs.db
