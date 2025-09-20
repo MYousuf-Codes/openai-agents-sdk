@@ -1,5 +1,5 @@
 import os
-from agents import Agent, Runner, AsyncOpenAI, OpenAIChatCompletionsModel
+from agents import Agent, Runner, AsyncOpenAI, OpenAIChatCompletionsModel, RunHooks
 from agents.run import RunConfig
 
 from dotenv import load_dotenv
