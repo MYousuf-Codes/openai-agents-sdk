@@ -1,0 +1,16 @@
+# Files to skip
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.chainlit
+*.env
+.files
+
+# Virtual environments
+.venv
+
+# Environment variables
+.env
